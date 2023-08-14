@@ -2,5 +2,5 @@ $schema: https://azuremlschemas.azureedge.net/latest/managedOnlineDeployment.sch
 name: mlflow-deployment-blue
 endpoint_name: my-endpoint
 model: azureml:diabetes-prod-model:1
-instance_type: Standard_DS1_v2
+instance_type: Standard_D2as_v4
 instance_count: 1
